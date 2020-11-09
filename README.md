@@ -6,3 +6,7 @@ Shell file (bash file) to limit bandwidth, latency and packet loss. Configuratio
 3) Choose the appropritate settings. 
 
 You can add, see and delete the changes made in your Network card.
+You can find your Network card name using(in the terminal):
+$ sudo lshw -C network
+ or 
+$ ip -a 
