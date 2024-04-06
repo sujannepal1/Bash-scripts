@@ -1,3 +1,4 @@
+#Final.sh
 # Shell-file-for-bandwidth-limiting-latency-and-paket-loss
 Shell file (bash file) to limit bandwidth, latency and packet loss. Configuration used ipconfig. 
 
@@ -10,3 +11,9 @@ You can find your Network card name using(in the terminal):
 $ sudo lshw -C network
  or 
 $ ip -a 
+
+
+#covert_csv_to_excel.sh
+
+Converts csv files to excel files using gnumeric that is installed before the program is running
+
