@@ -1,1 +1,5 @@
-# TODO add a corn job that run the bash script at 5pm and 8pm from bash script
+#!/bin/sh
+
+crontab -e
+
+# TODO check if it's the first time or not and select editor accordigly
